@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 first change for branch2
 second change for branch2
 third change for branch2
+=======
+first change for branch1
+second change for branch1
+third change for branch1
